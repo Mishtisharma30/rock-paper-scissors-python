@@ -29,6 +29,7 @@ It is a beginner-friendly project suitable for those starting their journey in P
 Make sure Python is installed.
 
 ```bash
-python hello.py
+python RPS.py
+
 
 
